@@ -1,0 +1,107 @@
+body {
+
+    background-color: rgb(214, 214, 214);
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+
+}
+
+
+
+
+.SubContactos {
+    margin-top: 100px;
+
+}
+
+.Contactos {
+
+
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 150px;
+    width: auto;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 12px #666262;
+}
+
+.mail-img {
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    height: 105px;
+    width: auto;
+
+}
+
+.tel-img {
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    height: 120px;
+    width: auto;
+}
+
+.home-img {
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    height: 120px;
+    width: auto;
+}
+
+.inst-img {
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    height: 90px;
+    width: auto;
+}
+
+.whats-img {
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    height: 120px;
+    width: auto;
+}
+
+.face-img {
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    height: 120px;
+    width: auto;
+}
+
+/* Responsive */
+
+
+@media(max-width: 441px) {
+
+
+
+    .Contactos  {
+
+        margin: 8px;
+
+
+    }
+
+}
